@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @HenGa
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi there
+- My name is Gary, a passionate developper from Guadeloupe (🇫🇷 FR)
+- 💞️ I’m looking to collaborate on on projects that involves Typescript for the front and the back end and currently working on projects with rust. 
+
+# 📫 Contact :
+By email : henrygary@hotmail.com
+
+# Personal projects : 
 
 <!---
 GaryHY/GaryHY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
