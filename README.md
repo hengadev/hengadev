@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @GaryHY
-- 👀 I’m interested in machine learning and mathématics in general
-- 🌱 I’m currently learning mathematics 
+- 👋 Hi, I’m @HenGa
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
