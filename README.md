@@ -7,7 +7,7 @@ By email : henrygary@hotmail.com
 
 # Personal projects : 
 - A TodoApp built in rust that you can find here
-- This repo where I try to build from scratch functionnalities that I use on a day day basic that you cna find here.
+- This repo where I try to build from scratch functionnalities that I use on a day day basic that you cna find [here]()
 - An extension for Youtube that expands some functionnalities to my convenience -> Here.
 - A plugin neovim written in lua that facilitates my leetcode work flow, please see it here.
 - A full stack Tauri desktop application developped for my father to improve his workflow. You can find the code for 
