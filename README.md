@@ -15,6 +15,8 @@ interested in low level programming with C++ and rust.
       </a>
    </p>
 
+![](https://komarev.com/ghpvc/?username=GaryHY)
+
 --- 
 ### Languages and Tools
 
@@ -37,9 +39,8 @@ interested in low level programming with C++ and rust.
 
 ### 📊 Stats
 
-![](https://komarev.com/ghpvc/?username=GaryHY)
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=GaryHY&show_icons=true&include_all_commits=true&count_private=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=folke&hide=php)](https://github.com/folke)
 
 --- 
 
