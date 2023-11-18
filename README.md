@@ -5,7 +5,7 @@
 I'm an aspiring full-stack developer building my version of the digital world one step at a time. All coding projects
 are built from the ground up, from planning and designing all the way to solving real-life problems with code. My work 
 involves using web technoogy using Typescript/Javascript and golang, machine learning with Python and I am getting
-interested in low level programming with C++ and rust.
+interested in "low level programming" with C++ and rust.
 
 <!-- TODO: Add badges for my personal website, for the github basic stats (followers and stars) and personal website. -->
 
@@ -15,7 +15,7 @@ interested in low level programming with C++ and rust.
       </a>
    </p>
 
-![](https://komarev.com/ghpvc/?username=GaryHY)
+<!-- ![](https://komarev.com/ghpvc/?username=GaryHY) -->
 
 --- 
 ### Languages and Tools
@@ -40,7 +40,7 @@ interested in low level programming with C++ and rust.
 ### 📊 Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=GaryHY&show_icons=true&include_all_commits=true&count_private=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=folke&hide=php)](https://github.com/folke)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaryHY&hide=php)](https://github.com/GaryHY)
 
 --- 
 
