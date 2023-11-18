@@ -1,4 +1,6 @@
-<a style="margin-inline: auto;" href="https://github.com/GaryHY" target="_blank"><img style="width: 90%; height: 340px;" src="./.github/images/banner.jpg"></a>
+<p align="center">
+    <a style="margin-inline: auto;" href="https://github.com/GaryHY" target="_blank"><img style="width: 90%; height: 340px;" src="./.github/images/banner.jpg"></a>
+</p>
 
 # 🦝 Henga (I am not a racoon)
 
