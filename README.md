@@ -10,7 +10,7 @@ interested in low level programming with C++ and rust.
 
 <!-- TODO: Add badges for my personal website, for the github basic stats (followers and stars) and personal website. -->
 
-   <p align="left">
+   <p align="center">
       <a href="http://x.com/henga">
         <img src="https://img.shields.io/badge/follow-%40henga%200-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Henga's Twitter"/>
       </a>
@@ -19,6 +19,7 @@ interested in low level programming with C++ and rust.
 --- 
 ### Languages and Tools
 
+<p align="center">
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -29,6 +30,7 @@ interested in low level programming with C++ and rust.
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
 <img align="left" alt="Golang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/golang-original.svg" />
 <br />
+</p>
 
 --- 
 
