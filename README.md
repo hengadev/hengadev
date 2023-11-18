@@ -55,7 +55,7 @@ interested in "low level programming" with C++ and rust.
 
 ### 📫 Contact :
 <p>By email : henrygary@hotmail.com.</p>
-<p>On [twitter](http://x.com/henga)</p>
+On [twitter](http://x.com/henga)
 
 <!---
 GaryHY/GaryHY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
