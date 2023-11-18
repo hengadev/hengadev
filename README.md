@@ -1,4 +1,4 @@
-<a href="https://github.com/GaryHY" target="_blank"><img style="height: 200px;" src="./.github/images/banner.jpg"></a>
+<a href="https://github.com/GaryHY" target="_blank"><img style="width: 100%; height: 200px;" src="./.github/images/banner.jpg"></a>
 
 # 🦝 Henga (I am not a racoon)
 
@@ -18,7 +18,7 @@ interested in "low level programming" with C++ and rust.
 <!-- ![](https://komarev.com/ghpvc/?username=GaryHY) -->
 
 --- 
-### Languages and Tools
+### 🔨 Languages and Tools
 
 <p align="center">
     <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
