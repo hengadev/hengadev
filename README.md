@@ -1,4 +1,4 @@
-<a href="https://github.com/GaryHY" target="_blank"><img style="height: 480px; width: 1280px;" src="./.github/images/banner.jpg"></a>
+<a href="https://github.com/GaryHY" target="_blank"><img src="./.github/images/banner.jpg"></a>
 
 # 🦝 Henga
 
