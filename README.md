@@ -49,6 +49,7 @@ interested in low level programming with C++ and rust.
  <summary><h3>👨‍💻 Henga's coding journey</h3></summary>
    I started my coding journey as a naive mathematics student with ... 
 
+</details>
 --- 
 
 ### 📫 Contact :
