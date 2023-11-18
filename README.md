@@ -44,7 +44,6 @@ interested in "low level programming" with C++ and rust.
 
 --- 
 
-### Coding journey
 <!-- TODO: Complete the coding journey -->
 
 <details>
