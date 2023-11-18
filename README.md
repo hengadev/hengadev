@@ -22,7 +22,7 @@ interested in "low level programming" with C++ and rust.
 --- 
 ### 🔨 Languages and Tools
 
-<p style="display: flex; align-items: center; gap: 0.5rem;">
+<p style="display: flex; align-items: center; justify-content: space-between;">
     <img alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
