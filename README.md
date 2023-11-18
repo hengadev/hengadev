@@ -37,9 +37,8 @@ interested in low level programming with C++ and rust.
 
 ### 📊 Stats
 
-<p align="center">
-        ![](https://komarev.com/ghpvc/?username=GaryHY)
-</p>
+![](https://komarev.com/ghpvc/?username=GaryHY)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=GaryHY&show_icons=true&include_all_commits=true&count_private=true) 
 
 --- 
